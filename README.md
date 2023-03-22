@@ -24,6 +24,7 @@ The project is an analysis of the relation between parent's degrees and other fa
 
 # Run the Project
 Prerequisites:
+- Python 3.11.0 or superior
 - Jupyter Notebook
 - Numpy
 - Pandas
