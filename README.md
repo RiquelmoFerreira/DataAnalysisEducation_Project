@@ -36,6 +36,7 @@ Prerequisites:
 - Seaborn
 - Matplotlib
 - Plotly
+- Power Point
 
 # Author
 Riquelmo Afonso Avelar Ferreira
@@ -81,6 +82,7 @@ Pré-Requisitos:
 - Seaborn
 - Matplotlib
 - Plotly
+- Power Point
 
 # Autor
 Riquelmo Afonso Avelar Ferreira
